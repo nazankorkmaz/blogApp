@@ -1,0 +1,2 @@
+# blogApp
+django, python
